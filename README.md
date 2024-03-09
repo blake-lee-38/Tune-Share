@@ -20,4 +20,4 @@
 
 ## Built Using:
 
-[![Built Using](https://skillicons.dev/icons?i=py, django, js, react&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,django,git,py,js&perline=5)](https://skillicons.dev)
