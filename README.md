@@ -19,4 +19,5 @@
 6. Enjoy listening to music with friends!
 
 ## Built Using:
-[![Built Using](https://skillicons.dev/icons?i=py, django, js, react)](https://skillicons.dev)
+
+[![Built Using](https://skillicons.dev/icons?i=py, django, js, react&perline=4)](https://skillicons.dev)
